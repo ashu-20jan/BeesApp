@@ -1,0 +1,16 @@
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\bin\Debug\netcoreapp3.1\BeesApp.exe
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\bin\Debug\netcoreapp3.1\BeesApp.deps.json
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\bin\Debug\netcoreapp3.1\BeesApp.runtimeconfig.json
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\bin\Debug\netcoreapp3.1\BeesApp.runtimeconfig.dev.json
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\bin\Debug\netcoreapp3.1\BeesApp.dll
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\bin\Debug\netcoreapp3.1\BeesApp.pdb
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.csproj.AssemblyReference.cache
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.Form1.resources
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.csproj.GenerateResource.cache
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.AssemblyInfoInputs.cache
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.AssemblyInfo.cs
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.csproj.CoreCompileInputs.cache
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.dll
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.pdb
+C:\Users\ashu2\source\repos\BeesApp\BeesApp\obj\Debug\netcoreapp3.1\BeesApp.genruntimeconfig.cache
